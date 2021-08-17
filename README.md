@@ -24,7 +24,7 @@ Result: [3,2]
 ```
 ## Installation
 
-Use the package manager ## npm to install foobar.
+Use the package manager ## npm to install.
 
 ```bash
 npm link
