@@ -1,0 +1,27 @@
+{
+  "name": "keypade-node-cli",
+  "version": "1.0.0",
+  "description": "Write a command-line application with Node.js that returns the coordinates of a key on a telephone keypad based on user input.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "seed": "console/keypade"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dipal0708/keypade-node-cli.git"
+  },
+  "keywords": [
+    "keypade",
+    "cli",
+    "nodejs"
+  ],
+  "author": "Dipal Kharva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dipal0708/keypade-node-cli/issues"
+  },
+  "homepage": "https://github.com/dipal0708/keypade-node-cli#readme"
+}
