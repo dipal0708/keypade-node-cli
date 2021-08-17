@@ -30,7 +30,7 @@ Use the package manager ## npm to install foobar.
 npm link
 ```
 
-## Usage
+## Run Command 
 
 ```node
 seed u
